@@ -1,0 +1,3 @@
+# Linear regression machine learning
+
+This repo contain Linear regression algorithms gradient descent...
